@@ -14,6 +14,12 @@ A simple and responsive React-based Movie Finder application that uses the [TMDB
 - **Frontend:** React (JavaScript/TypeScript)
 - **API:** [The Movie Database (TMDB) API](https://developers.themoviedb.org/)
 
+
+
+## 🌐 Live Demo
+https://moviehopper.netlify.app/
+
+
 ## 📦 Installation
 
 ```bash
@@ -22,5 +28,3 @@ cd movie-finder-app
 npm install
 npm start
 
-🌐 Live Demo
-https://moviehopper.netlify.app/
